@@ -1,0 +1,4 @@
+Add the ability to set passoword length 
+Add copy on click feature
+Add light and dark variants
+Toggle symbols and numbers on/off
