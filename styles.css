@@ -1,5 +1,5 @@
 #main {
-  width: 500px;
+  max-width: 500px;
   height: 500px;
   background-color: #1f2937;
   margin: 50px auto;
@@ -46,6 +46,7 @@ hr {
 #password-field {
   display: flex;
   justify-content: space-between;
+  color: #10b981;
 }
 
 #password-field div {
@@ -53,4 +54,7 @@ hr {
   height: 35px;
   background-color: #273549;
   border-radius: 6px;
+  text-align: center;
+  line-height: 35px;
+  text-align: center;
 }
